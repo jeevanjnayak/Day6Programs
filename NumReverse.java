@@ -2,7 +2,7 @@ package com.Bridgelabz;
 
 import java.util.Scanner;
 
-public class SumZero {
+public class NumReverse {
 
     public static void main(String[] args) {
         
